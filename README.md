@@ -35,6 +35,13 @@ Django platform for organizing psychological counseling workflows.
 The app supports registration, client and psychologist roles, appointment booking, available time slots, internal messages and email notifications.  
 It also experiments with multi-tenant architecture using `django-tenants`.
 
+### [Telebot Java](https://github.com/evashka28/Telebot_Java_part)
+
+Java backend for a Telegram bot that stores notes, links, facts and tasks with tags and reminders.
+
+Built with Java 11, Spring Boot, Maven, Hibernate, PostgreSQL and Quartz Scheduler.  
+The project includes REST controllers, data access layer, Telegram/Todoist integrations, scheduled reminders and persistent storage.
+
 
 ## Current Focus
 
